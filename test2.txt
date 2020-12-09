@@ -1,0 +1,4 @@
+Hello, its abu musa. 
+I am learning Git and Github, this is another test file in my local repository.
+
+I am editing this file in vim. I thougt vim is too hard, but its very simple and easy.
