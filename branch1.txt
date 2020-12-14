@@ -1,0 +1,4 @@
+Hei, i am learning git and github.com
+now i am learning branch. 
+
+this is a text file in branch1..
