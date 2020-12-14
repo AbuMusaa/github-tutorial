@@ -1,0 +1,4 @@
+Hello, I am learning git and github
+now running 3rd class..
+
+this is a text file inside branch2...
